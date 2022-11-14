@@ -1,4 +1,4 @@
-#This finds the United States election day in a certain year. Congressional and presidential elections occur on this day
+#This finds the United States election day in a certain year. Congressional, presidential and, gubernatorial elections occur on this day
 import datetime as dt
 
 year = int(input("Enter year: "))
